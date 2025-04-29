@@ -7,13 +7,6 @@ It covers everything from product details to variations like color, size, and at
 
 The goal is to create a scalable and well-structured database following best practices in database design, normalization, and collaboration.
 
-
-## 📊 Entity Relationship Diagram (ERD)
-
-![ERD Diagram](./c:\Users\HP\Downloads\ecommerce.drawio.pngdocs/erd.png)
-
-
-
  **Tools Used**  
    - MySQL Workbench / VS Code + SQL extension
    - GitHub for version control and collaboration
