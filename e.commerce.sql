@@ -35,7 +35,7 @@ CREATE TABLE product (
     productID INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(255) NOT NULL,
     brandID INT,
-    base_price DECIMAL(10,2),
+    price DECIMAL(10,2),
     categoryID INT,
     FOREIGN KEY (brandID) REFERENCES brand(brandID),
     FOREIGN KEY (categoryID) REFERENCES product_category(categoryID)
